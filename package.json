@@ -1,7 +1,7 @@
 {
   "name": "async-spect",
   "version": "1.0.0",
-  "description": "An Electron application with React and TypeScript",
+  "description": "App para inspecionar async storage do app react native",
   "main": "./out/main/index.js",
   "author": "example.com",
   "homepage": "https://www.codeborges.com/",
