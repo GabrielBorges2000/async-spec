@@ -1,10 +1,10 @@
 # Async-spect
 
-App para ler o async storage de uma aplicação react native
+App para ler o async storage de aplicações React Native que irá receber os dados atrávez de um web hook local.
 
 ## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [VSCode](https://code.visualstudio.com/)
 
 ## Project Setup
 
